@@ -1,2 +1,2 @@
 #!/bin/bash
-0 string SCHOOL School_data_file
+0 string SCHOOL School_data_file !:mime
